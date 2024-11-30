@@ -1,3 +1,4 @@
+# updated code for mobilenet_v3 2024 >> https://www.kaggle.com/code/shadysakr/89-val-acc-violence-detection-mobilenet-v3
 # Automatic-Fight-Detection-in-Surveillance-Videos
 
 Dataset : 1-Hockey Fight Vidoes: https://www.kaggle.com/datasets/yassershrief/hockey-fight-vidoes
